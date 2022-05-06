@@ -1,0 +1,9 @@
+body{
+    font-family: monospace;
+}
+.btn-warning{
+    width: 800px;
+}
+.btn-danger{
+    width: 200px;
+}
